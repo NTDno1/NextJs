@@ -13,6 +13,9 @@ export default function Home() {
         <li>
           <a href="/tiktok">Tiktok</a>
         </li>
+        <li>
+          <a href="/tiktok">TestNewcommit</a>
+        </li>
       </ul>
     </div>
   );
